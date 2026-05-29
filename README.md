@@ -150,8 +150,13 @@ tkinter             # Interface gráfica (incluído no Python)
 
 ## 📄 License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Copyright (C) 2025-2026 Gabriel Felipe Guarnieri. All rights reserved.
 
-You are free to share and adapt this work for non-commercial purposes, provided you give appropriate credit and distribute your contributions under the same license.
+This project is dual-licensed under the **AGPL-3.0 + Commercial License** model:
 
-See the [LICENSE](LICENSE) file for full details.
+- **Open-source use**: Licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
+- **Commercial use**: A proprietary commercial license is available for use cases incompatible with the AGPL-3.0. See [LICENSE-COMMERCIAL.md](LICENSE-COMMERCIAL.md) for details.
+
+> **Retroactive clause**: This license applies retroactively to all past commits and versions of this repository, superseding any previously stated license.
+
+For commercial licensing inquiries, contact the author via [LinkedIn](https://www.linkedin.com/in/oguarni/).
